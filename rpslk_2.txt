@@ -1,0 +1,13 @@
+3, Ephrem 
+1, Saly
+2, Roupali
+2, Haneen
+0, Tom
+1, Megan
+1, Kelli
+1, Jimmy
+3, Suzan
+3, Foster
+2, Bill
+3, Sam
+0, Rick
